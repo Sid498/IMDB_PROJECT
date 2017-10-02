@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "811719158602",
+    "firebase_url": "https://imdbproject-c89a6.firebaseio.com",
+    "project_id": "imdbproject-c89a6",
+    "storage_bucket": "imdbproject-c89a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811719158602:android:0042f18b8de9e2e6",
+        "android_client_info": {
+          "package_name": "com.example.sid.imdb_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811719158602-bhmb2cvo2dc969tjkc79t3mshjn40igr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sid.imdb_project",
+            "certificate_hash": "a08352478038fff35456338230a9fc6458145885"
+          }
+        },
+        {
+          "client_id": "811719158602-9i8fpnk7d3u29jdlatl242al2sbo32ip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2m_Mx9mViIOy3W8-wigzCD2kl31QIUwE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811719158602-9i8fpnk7d3u29jdlatl242al2sbo32ip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

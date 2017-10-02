@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/MovieList"
+        android:title="Movie List"
+        app:showAsAction="always"
+        android:icon="@drawable/menu">
+        <menu>
+            <item
+                android:id="@+id/MostPopular"
+                android:title="Most Popular" />
+            <item
+                android:id="@+id/UpcomingMovies"
+                android:title="Upcoming Movies" />
+            <item
+                android:id="@+id/LatestMovies"
+                android:title="Latest Movies"/>
+            <item
+                android:id="@+id/NowPlaying"
+                android:title="Now Playing" />
+            <item
+                android:id="@+id/toprated"
+                android:title="Top Rated" />
+
+        </menu>
+    </item>
+    <item
+        android:id="@+id/watchlist"
+        android:title="My WatchList" />
+    <item
+        android:id="@+id/Fav"
+        android:title="Favorites" />
+    <item
+        android:id="@+id/refresh"
+        android:title="Refresh" />
+
+</menu>
